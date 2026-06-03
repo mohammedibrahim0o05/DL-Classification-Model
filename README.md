@@ -39,9 +39,8 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: S.YOGESH
-
-### Register Number: 212224230311
+### Name : Mohammed Ibrahim MN 
+### Roll No : 212223100034
 
 ```python
 import torch
